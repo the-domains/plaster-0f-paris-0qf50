@@ -1,18 +1,14 @@
-typography_spectrum: 0.5560096197295934
+layout_spectrum: 0.479662453988567
+typography_spectrum: 0.4853648510761559
 color:
-  brandStrength: 0.7331060620490462
-  lightness: 0.8516795428004116
-  saturation: 0.7993746183346957
-  rhythmicContrast: 0.7344610502477735
+  brandStrength: 0.020639905706048012
+  lightness: 0.09033144521526992
+  saturation: 0.417091756593436
+  rhythmicContrast: 0.044686588225886226
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.11240786546841264
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: plaster 0f paris
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/37da8bff-cff6-484e-8d7c-eeef3b2ce5b0.jpg
-title: plaster 0f paris
-description: t0ny
