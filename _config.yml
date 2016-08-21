@@ -1,4 +1,3 @@
-layout_spectrum: 0.479662453988567
 typography_spectrum: 0.4853648510761559
 color:
   brandStrength: 0.020639905706048012
@@ -6,9 +5,11 @@ color:
   saturation: 0.417091756593436
   rhythmicContrast: 0.044686588225886226
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.479662453988567
 name: plaster 0f paris
+title: plaster 0f paria
